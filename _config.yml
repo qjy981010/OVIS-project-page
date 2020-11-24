@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "OVIS"
   avatar           : #"profile.png"
-  bio              : #"Occluded Video Instance Segmentation"
+  bio              : " " # "Occluded Video Instance Segmentation"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
