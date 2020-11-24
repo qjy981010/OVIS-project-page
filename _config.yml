@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "OVIS"
 title_separator          : "-"
 name                     : &name "OVIS"
-description              : &description " "  # "Occluded Video Instance Segmentation"
+description              : &description "Occluded Video Instance Segmentation"
 url                      : https://qjy981010.github.io/OVIS-project-page #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qjy981010/OVIS-project-page"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "OVIS"
   avatar           : #"profile.png"
-  bio              : "Occluded Video Instance Segmentation"
+  bio              : #"Occluded Video Instance Segmentation"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
