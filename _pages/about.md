@@ -34,4 +34,4 @@ Given a video, all the objects belonging to the pre-defined category set are exh
 
 ### Visualization
 
-![Various types of occlusions](images/occlusions_singlecol_crop.png)
+![Various types of occlusions](images/occlusions_singlecol_crop_30.png)
