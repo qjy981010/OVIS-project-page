@@ -10,6 +10,8 @@ redirect_from:
 
 {% include base_path %}
 
+<img style="display: block; margin: 0 auto;" src="images/twobear.webp" alt="" />
+
 ### Overview
 
 **OVIS** (short for **O**ccluded **V**ideo **I**nstance **S**egmentation) is a new large scale benchmark dataset for video instance segmentation task. It is designed with the philosophy of perceiving object occlusions in videos, which could reveal the complexity and the diversity of real-world scenes.
